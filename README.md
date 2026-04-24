@@ -30,18 +30,21 @@ Hosted Project: https://library-book-recommendation-system-zkv8.onrender.com/
 
 ## Project Structure
 
-```text id="p3uk0h"
+```text
 library_book_recommender_system/
+│── csvdata/
+│── templates/
+│── .gitattributes
+│── README.md
 │── app.py
-│── requirements.txt
+│── book-recommender-system.ipynb
 │── books.pkl
 │── popular.pkl
 │── pt.pkl
+│── requirements.txt
 │── similarity_scores.pkl
-│── templates/
-│   │── index.html
-│   │── recommend.html
 ```
+
 
 ## Installation and Setup
 
